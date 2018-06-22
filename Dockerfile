@@ -1,5 +1,4 @@
-FROM mtangaro/docker-centos-epel
-#FROM centos:7.4.1708
+FROM laniakeacloud/docker-centos-base
 
 MAINTAINER ma.tangaro@ibiom.cnr.it
 
