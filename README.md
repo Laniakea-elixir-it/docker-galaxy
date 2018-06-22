@@ -1,5 +1,5 @@
-docker-galaxycloud
-==================
+docker-galaxy
+=============
 Run your docker with:
 ```
 docker run -d -p 80:80 -p 21:21 mtangaro/docker-galaxycloud
