@@ -1,4 +1,4 @@
-FROM laniakeacloud/docker-centos-base
+FROM laniakeacloud/centos-base
 
 MAINTAINER ma.tangaro@ibiom.cnr.it
 
